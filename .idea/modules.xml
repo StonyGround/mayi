@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pushlib/Pushlib.iml" filepath="$PROJECT_DIR$/Pushlib/Pushlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayi_android.iml" filepath="$PROJECT_DIR$/mayi_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myht/myht.iml" filepath="$PROJECT_DIR$/myht/myht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myzx/myzx.iml" filepath="$PROJECT_DIR$/myzx/myzx.iml" />
+    </modules>
+  </component>
+</project>

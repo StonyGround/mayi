@@ -1,0 +1,55 @@
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_transparent">#a0ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#FFFF002E</color>
+    <color name="red_dark">#ffff002e</color>
+    <color name="blue_dark">#0696FA</color>
+    <color name="grey">#30000000</color>
+    <color name="grey_light">#20000000</color>
+    <color name="text">#323232</color>
+    <color name="text_grey_dark">#666666</color>
+    <color name="text_grey">#FF909090</color>
+    <color name="text_dark">#323232</color>
+    <color name="view_line_grey">#ededed</color>
+    <color name="blue">#17b6ed</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#ff01b226</color>
+    <color name="line_light">#F9F9F9</color>
+    <color name="line">#ddd</color>
+    <color name="grey_goods_details">#f2f2f2</color>
+    <color name="grey_goods_show_radio">#f3f3f3</color>
+    <!--顶部搜索框背景-->
+    <color name="grey_title_search">#efefef</color>
+
+    <color name="background_white_white">#fafafa</color>
+    <color name="background_white">#F9F9F9</color>
+    <color name="background_grey">#E5E5E5</color>
+    <color name="background_transparent">#40000000</color>
+    <color name="background_black_main">#323232</color>
+    <color name="background_tab_pressed">#fff9f9f9</color>
+    <color name="background_tab_pressed_false">#ffffffff</color>
+    <color name="background_search_in">#10000000</color>
+    <color name="indicator_color">#FFFF002E</color>
+    <color name="indicator_container">#ffffffff</color>
+    <color name="title_color">#333333</color>
+
+    <color name="aimao_color">#ffefeded</color>
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <color name="background_item_home">#F3F3F3</color>
+    <color name="home_area">#ff0055</color>
+    <color name="light_grey">#F6F5F5</color>
+    <color name="article">#E45157</color>
+
+    <color name="bg_guide_1">#57D78D</color>
+    <color name="bg_guide_2">#FDC741</color>
+    <color name="bg_guide_3">#C27BFF</color>
+    <color name="bg_guide_4">#5BD8EE</color>
+</resources>

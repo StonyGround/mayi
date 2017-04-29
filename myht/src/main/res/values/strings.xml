@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">蚂蚁海淘</string>
+    
+    <string name="home_search">蚂蚁海淘 欢迎您的选购</string>
+    <string name="tab_list_1">KOSE 樱花限定颊彩</string>
+    <string name="tab_list_2">高丝 丰靡美姬 梦幻妆容 宛如樱花瓣般的温柔色彩</string>
+    <string name="tab_price">海淘价格</string>
+    <string name="cny">￥</string>
+    <string name="buy_now">立即购买</string>
+    <string name="main_safe_1">正品保障</string>
+    <string name="main_safe_2">跨进直发</string>
+    <string name="main_safe_3">专业配送</string>
+    <string name="main_safe_4">政府监管</string>
+    <string name="main_safe_5">海外优选</string>
+    <string name="home_newest_cn">最新爆款</string>
+    <string name="home_newest_en">NEW HOT</string>
+
+    <string name="distribute_commission">已赚佣金(元)</string>
+    <string name="distribute_commission_total">累计佣金(元)</string>
+    <string name="distribute_balance">账户余额(元)</string>
+    <string name="my_shop">我的店铺</string>
+    <string name="shop_setting">店铺设置></string>
+    <string name="shop_name">店铺2016404356076</string>
+    <string name="shop_main">主营:母婴用品,日用百货</string>
+    <string name="shop_go">查看店铺</string>
+    <string name="add_goods">添加商品</string>
+    <string name="distribute_goods">分销商品</string>
+    <string name="distribute_goods_num">(20件)</string>
+    <string name="distribute_income_statistic">收益统计</string>
+    <string name="distribute_income_detail">收益明细</string>
+    <string name="distribute_partner_my">我的合伙人</string>
+    <string name="distribute_partner_invite">邀请合伙人</string>
+    <string name="distribute_last_title_1">在电脑端可以管理自有货源、设置佣金</string>
+    <string name="distribute_last_title_2">20万人帮你分销</string>
+
+    <string name="my_unauthorized">未认证</string>
+    <string name="my_authorized">已认证</string>
+    <string name="my_wait_pay">待付款</string>
+    <string name="my_wait_deliver">待发货</string>
+    <string name="my_wait_receive">待收货</string>
+    <string name="my_wait_return">退换货</string>
+    <string name="my_order">我的订单></string>
+    <string name="my_wallet">蚂蚁钱包</string>
+    <string name="my_coupon">优惠券</string>
+    <string name="my_collect">商品收藏</string>
+    <string name="my_shop_collect">店铺收藏</string>
+    <string name="my_address">收货地址</string>
+    <string name="my_help">帮助中心</string>
+    <string name="my_service">联系客服</string>
+</resources>

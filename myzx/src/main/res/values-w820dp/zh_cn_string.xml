@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rb_index">首页</string>
+    <string name="rb_list">产品列表</string>
+    <string name="rb_personal">个人中心</string>
+    <string name="rb_more">更多</string>
+</resources>

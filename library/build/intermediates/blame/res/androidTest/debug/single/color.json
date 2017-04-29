@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\oneki\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\oneki\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\home\\kiddo\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\home\\kiddo\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\home\\kiddo\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\home\\kiddo\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\oneki\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\oneki\\AndroidStudioProjects\\mayi_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    }
+]

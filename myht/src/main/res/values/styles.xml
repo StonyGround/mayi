@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- 第一步设置主题 -->
+    <style name="StyledIndicators" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- 第二步设置主题 -->
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+
+         点击时在不同状态下显示的背景色
+        <item name="android:background">@drawable/custom_tab_indicator</item>
+        <!-- 分割线图片设置 -->
+        <!--<item name="android:divider">@drawable/shape_tab_divider_select</item>-->
+        <!-- 设置分割线的显示位置，或是不显示 -->
+        <!--<item name="android:showDividers">shown</item>-->
+
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@drawable/selector_tabtext</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:dividerPadding">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:fadingEdgeLength">10dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+    </style>
+    <!-- 第三步设置主题 -->
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="AppSplash" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/splash_bg_newyear</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="bottom_tag_style">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@drawable/rb_text_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:button">@android:color/transparent</item>
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="dialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <!--<style name="dialog_bottom_anim">-->
+        <!--<item name="@android:windowEnterAnimation">@anim/dialog_enter</item>-->
+        <!--<item name="@android:windowExitAnimation">@anim/dialog_exit</item>-->
+    <!--</style>-->
+
+    <!-- ActionBar theme. -->
+    <style name="BaseActionBar" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

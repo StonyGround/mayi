@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_marginBottom="10dp"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <View
+            android:layout_toLeftOf="@+id/find_title"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_centerVertical="true"
+            android:background="@color/text_grey_dark" />
+
+        <TextView
+            android:id="@+id/find_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/tv_find_newest"
+            android:textColor="@color/blue_dark"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_toRightOf="@+id/find_title"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@color/text_grey_dark"/>
+    </RelativeLayout>
+
+    <com.mayizaixian.myzx.widget.HorizontalScrollViewPager
+        android:id="@+id/find_banner_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp">
+
+    </com.mayizaixian.myzx.widget.HorizontalScrollViewPager>
+</LinearLayout>

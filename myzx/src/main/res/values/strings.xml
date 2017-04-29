@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">蚂蚁在线</string>
+    <string name="rb_index">首页</string>
+    <string name="rb_list">产品列表</string>
+    <string name="rb_personal">个人中心</string>
+    <string name="rb_more">我的</string>
+    <string name="details_safe_basicdesc">原债权人某供应链管理公司与原债务人网易环球购有限公司（HQG.Limited）网易考拉采购中心已签署编号为Y150500××的《供货合同》，并已建立母婴用品（花王尿不湿）交易关系，由原债权人向原债务人销售手机配件产生的应收账款共计8000000元人民币。该保理项目总共需要在平台募集资金400万元，本期融资5万元</string>
+    <string name="details_safe_debt" formatted="false">网易环球购有限公司（HQG.Limited）,该公司是属于网易旗下的海外淘公司，为“网易考拉海购”网站供货实体网易考拉海购是网易旗下以跨境业务为主的综合型电商，于2015年1月上线公测。网易考拉海购目前在售商品涵盖进口母婴、美容彩妆、家居日用、进口美食、营养保健、时尚轻奢等。网易考拉海购采取自营直采模式，与海外品牌方、优质经销商等建立密切合作，所有商品均由专业团队严选，并对供应商资质进行严格审核，更设置复核机制，在源头上把控商品品质。在省去中间环节的同时，凭借网易的雄厚财力支持和产业链优势，网易考拉海购通过大规模的批量采购获得海外批发价，保证消费者能够以更优惠的价格购买到优质的海外商品。同时，网易考拉海购采取保税区发货和海外直邮两种方式，最大限度保证物流速度。从而实现100%自营正品、100%海外直采、7天无忧退货三大承诺。</string>
+    <string name="details_safe_fb">本次保理业务类型为明保理。原债权人与保理商签署的欧亚保理《国内保理业务合同》该保理合同有效期为一年，将上述应收账款转让给保理商，保理商已将上述债权在央行应收账款质押公示登记系统登记。由保理商为原债权人提供国内保理融资服务、账款管理及账款催收服务。</string>
+    <string name="details_safe_fc">欧亚联合商业保理（天津）有限公司（简称“欧亚保理”）于2014年初筹备，正式成立于2015年，是在天津市自由贸易试验区市场和质量监督管理局依法注册成立的一家非银行独立保理商。注册资本（实缴）一亿元，注册地天津自贸区（东疆保税港区）洛阳道601号（海丰物流园七号仓库6单元-873）。欧亚保理以满足产业链上各企业之间贸易和服务的流动性资金需求，提供全流程供应链保理金融服务，致力于通过丰富的行业知识和经验、以及专业的保理服务，帮助买卖双方缓解资金压力、简化管理流程、降低信用风险、提升交易效率。主要经营范围为：以受让应收帐款的方式提供贸易融资；应收账款的收付结算、管理与催收；销售分户（分类）账管理；与本公司业务相关的非商业性坏账担保；客户资信调查与评估。欧亚保理将积极探索合作伙伴与目标客户的需求，提供快速安全的资金流转渠道；在传统的金融业务上不断创新，帮助合作伙伴更快更好地根据市场的变化而做出反应，帮助共同的客户缩短资金调度和融资费率，降低经营成本，提高共同竞争力，打造多赢的新金融服务平台。</string>
+    <string name="details_safe_fo">原债务人为国内大型家电产品贸易商，企业在国内外知名度极高，履约能力强，还款意愿强。采购合同核实无误，供货单真实有效。</string>
+    <string name="tv_main_error">网络出错,请检查网络设置</string>
+    <string name="tv_main_refresh">点击页面刷新</string>
+
+    <string name="tv_mother">母婴专区</string>
+    <string name="tv_beauty">美妆专区</string>
+
+    <string name="tv_origin">唯品会票据1号2期</string>
+    <string name="tv_income_number">9</string>
+    <string name="tv_home_percent">%</string>
+    <string name="tv_home_year">年化收益</string>
+    <string name="tv_discount_text">折</string>
+    <string name="tv_mother_buy">母婴专区购物</string>
+    <string name="tv_home_highest">最高相当于</string>
+
+    <string name="tv_home_earn">赚·</string>
+    <string name="tv_home_brother">大佬</string>
+    <string name="tv_home_money">·的钱</string>
+    <string name="tv_home_title1">真实供应链</string>
+    <string name="tv_home_title2">资金安全托管</string>
+    <string name="tv_home_title3">签订电子合同</string>
+    <string name="tv_home_title4">9大风控流程</string>
+
+    <string name="tv_find_join">人参加该活动></string>
+    <string name="tv_find_newest">发现最新活动</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
